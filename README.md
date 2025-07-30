@@ -17,10 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=John-Nguyen-2101&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Nguyen-2101&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=John-Nguyen-2101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
